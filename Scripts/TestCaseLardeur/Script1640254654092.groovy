@@ -36,3 +36,11 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Wowhead  La seule chose su
 
 WebUI.click(findTestObject('Object Repository/Page_lardeur - Recherche Wowhead/a_Lardeur'))
 
+WebUI.click(findTestObject('Object Repository/Page_lardeur - Recherche Wowhead/td_Lardeur'))
+
+WebUI.click(findTestObject('Object Repository/Page_Lardeur - PNJ - World of Warcraft/a_Chahuteurs de cadavre'))
+
+WebUI.click(findTestObject('Object Repository/Page_Lardeur - PNJ - World of Warcraft/div_Chausses de Lardeur'))
+
+WebUI.click(findTestObject('Object Repository/Page_Lardeur - PNJ - World of Warcraft/a_Armures en cuir'))
+
